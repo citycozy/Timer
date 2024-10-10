@@ -1,6 +1,10 @@
 # 회수 타이머 v1.0
 
-심심풀이로 만들어본 회수 타이머 애플리케이션입니다. UI는 고려하지 않고 기능만 생각해서 구현해봤습니다.
+UI를 고려하지 않고 심심풀이로 만들어본 회수 타이머 애플리케이션입니다.
+
+## 요구 사항
+
+- **이 애플리케이션을 사용하기 위해서는 Java가 설치되어 있어야 합니다.** [다운로드하기](https://www.java.com/ko/download/)
 
 ## 주요 기능
 
@@ -20,7 +24,7 @@
 - **창 이동:**  
   버튼과 슬라이더를 제외한 공간을 누른 채로 창을 이동시킬 수 있습니다.
 
-- **AlwaysOnTop:**  
+- **Always On Top:**  
   애플리케이션이 항상 다른 창 위에 위치하여 쉽게 확인할 수 있습니다.
 
 ## 사용 기술
@@ -29,7 +33,6 @@
 - **Swing:** GUI 구성 요소를 생성하는 데 사용
 - **Java Sound API:** 사운드 파일 재생을 위한 API
 
-
 ## 다운로드
 
-[GoogleDrive](https://drive.google.com/file/d/15zEDLBG8D_tHJG2LqJjlcpw4953MR03g/view?usp=sharing)
+- [Google Drive 링크](https://drive.google.com/file/d/15zEDLBG8D_tHJG2LqJjlcpw4953MR03g/view?usp=sharing)
