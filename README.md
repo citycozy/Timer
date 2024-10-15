@@ -19,9 +19,9 @@
 
 ## 사용 기술
 
-- **Java:** 기본 프로그래밍 언어
-- **Swing:** GUI 구성 요소를 생성하는 데 사용
-- **Java Sound API:** 사운드 파일 재생을 위한 API
+- **Java** 
+- **Swing** 
+- **Java Sound API** 
 
 ## 요구 사항
 
